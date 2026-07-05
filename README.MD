@@ -60,16 +60,15 @@ Building this project helped me improve my understanding of:
 - Rebuild the portfolio using React
 
 ---
-
 ## Author
 
 **Atif Shehzad**
 
 Software Engineering Student | Front-End Developer
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-- GitHub: https://github.com/your-github-username
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/atif-shehzad-2a4bbb352
+- GitHub: https://github.com/atifshehzad9098-oss
+- Email: atifshehzad9098@gmail.com
 
 ---
 
