@@ -60,7 +60,6 @@ Building this project helped me improve my understanding of:
 - Rebuild the portfolio using React
 
 ---
-
 ## Author
 
 **Atif Shehzad**
