@@ -58,7 +58,6 @@ Building this project helped me improve my understanding of:
 - Connect the contact form using EmailJS
 - Add scroll animations
 - Rebuild the portfolio using React
-
 ---
 ## Author
 
