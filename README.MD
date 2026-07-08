@@ -63,7 +63,7 @@ Building this project helped me improve my understanding of:
 
 **Atif Shehzad**
 
-Software Engineering Student | Front-End Developer
+Computer Science Student | Front-End Developer
 
 - LinkedIn: https://www.linkedin.com/in/atif-shehzad-2a4bbb352
 - GitHub: https://github.com/atifshehzad9098-oss
