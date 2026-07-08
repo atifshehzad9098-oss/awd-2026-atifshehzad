@@ -1,0 +1,164 @@
+@media (max-width: 1024px){
+    .title h1{
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .title{
+        padding: 8% 0;
+    }
+    .header h1{
+        font-size: 20px;
+    }
+    .header nav a{
+        padding: 10px 2px;
+        margin: 0 0.5rem;
+    }
+    .contact-grid .contact-info{
+        font-size: 1.4vw;
+    }
+    .footer h2, .footer p{
+        font-size: 2vw;
+    }
+
+}
+@media (max-width: 768px) {
+    .edu-exp{
+        flex-direction: column;
+    }
+    .education, .experience{
+        width: 100%;
+    }
+    .project{
+        height: auto;
+    }
+    .card-container{
+        flex-wrap: wrap;
+    }
+    .card{
+        min-width: 40%;
+    }
+    .contact-grid{
+        grid-template-columns: 40% 1fr 1fr;
+        grid-template-rows: 18% 18% 18% 25% 15%;
+        padding: 5vw;
+        gap: 1vw;
+        overflow: hidden;
+    }
+    .contact-grid .contact-info{
+        font-size: 1.6vw;
+    }
+   
+}
+
+@media (max-width: 426px) {
+    .header{
+        flex-wrap: wrap;
+        border: none;
+        top: 0;
+        border-radius: none;
+    }
+    .header nav{
+        order: 2;
+        flex-wrap: wrap;
+    }
+    .header nav a{
+        padding: 5px 2px;
+    }
+    .header .hire{
+        order: 1;
+    }
+    .hero-section{
+        flex-direction: column;
+        margin-top: 40%;
+    }
+    .hero-section .title{
+        order: 1;
+        height: auto;
+    }
+    .title h1{
+        font-size: 20vw;
+        line-height: 20vw;
+    }
+    .hero-section .image{
+        order: -1;
+    }
+    .image img{
+        width: 50%;
+    }
+    .title, .image{
+        width: 100%;
+        height: 40vh;
+    }
+    .image .latest{
+        padding: 5px 10px;
+        font-size: 12px;
+        bottom: 5%;
+        right: 20%;
+    }
+    .icons{
+        text-align: center;
+    }
+    .about{
+        flex-direction: column;
+    }
+    .about-content{
+        width: 100%;
+    }
+    .about img{
+        min-width: 100%;
+    }
+    .skill-item{
+        width: 30%;
+    }
+    .skill-quantity{
+        flex-wrap: wrap;
+    }
+    .skill-quantity .q{
+        min-width: 40%;
+    }
+    .card-container{
+        gap: 5vw;
+    }
+    .card{
+        width: 70vw;
+        min-height: 80vw;
+    }
+    .card img{
+        height: 30vh;
+        object-fit: contain;
+    }
+    .card-title{
+        margin-top: 2vh;
+    }
+    .experience{
+        border-top: 1px solid var(--border-color);
+        border-right: none;
+    }
+    .contact-grid{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-grid .contact-info, .message, .contact-grid .icons{
+        width: 100%;
+        font-size: 90%;
+        margin-top: 2vw;
+        padding: 2vw;
+    }
+    form .top{
+        flex-direction: column;
+    }
+    .top input{
+        width: 100%;
+    }
+    .top input, .down input{
+        padding: 8px;
+    }
+    .footer{
+        flex-direction: column;
+        text-align: center;
+        gap: 3vw;
+    }
+   .footer h2, .footer p{
+        font-size: 100%;
+    }
+}
