@@ -118,10 +118,11 @@
     }
     .card-container{
         gap: 5vw;
+        padding: 1vw 0.5vw;
     }
     .card{
-        width: 70vw;
-        min-height: 80vw;
+        width: 85vw;
+        min-height: 85vw;
     }
     .card img{
         height: 30vh;
@@ -137,6 +138,7 @@
     .contact-grid{
         display: flex;
         flex-direction: column;
+        padding: 2vw 0vw;
     }
     .contact-grid .contact-info, .message, .contact-grid .icons{
         width: 100%;
