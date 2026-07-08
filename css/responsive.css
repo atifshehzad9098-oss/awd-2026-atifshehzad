@@ -55,7 +55,9 @@
         flex-wrap: wrap;
         border: none;
         top: 0;
-        border-radius: none;
+        border-radius: 0;
+        border-bottom: 2px solid var(--border-color);
+        padding: 0;
     }
     .header nav{
         order: 2;
